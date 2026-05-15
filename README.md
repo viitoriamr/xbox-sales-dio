@@ -61,7 +61,7 @@ Durante o desenvolvimento deste projeto, foram trabalhados conceitos como:
 ---
 
 ## 📷 Preview do Projeto
- ![](.dashboard-preview.png)
+ ![](./dashboard-preview.png)
 
 **Vitória Mesquita Rodrigues**  
 Engenharia Química • Data Analytics • Power BI 📊✨
